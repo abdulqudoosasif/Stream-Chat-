@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969226671835",
+    "project_id": "quick-talk-154f3",
+    "storage_bucket": "quick-talk-154f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969226671835:android:21d25b58ac097ab01c5efe",
+        "android_client_info": {
+          "package_name": "android.expo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1YViZICfv_yY4TV4bEJLZlCRxyqQf30A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
